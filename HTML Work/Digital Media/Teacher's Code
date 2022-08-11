@@ -1,0 +1,49 @@
+<head>
+  <title>Can you find the mistakes in this HTML code?<title>
+</head>
+
+
+<body>
+  <article>
+    <h1>New York's best coffeeshops</h1>
+    <p>New York has some great coffeeshops. Make sure not to miss the hot new addresses opening up left and right!<p>
+    <h2>Manhattan</h2>
+
+
+    <h3>The Bean</h3>
+    <p>
+      824 Broadway<br>
+      New York, NY 10003
+    </p>
+    <p>There are multiple Bean locations in the city. It's a good place to get work done because they're open late.</p>
+    <h3>Third Rail
+     <p>
+      240 Sullivan St<br>
+      New York, NY 10012
+
+    <p>Coffee and donuts! What more could you want?</p></h3>
+    <h3>Black Fox Coffee Co.</h3>
+    <p>
+      70 Pine St<br>
+      New York, NY 10270
+     </p>
+
+
+    <p>Black Fox has an incredible bean selection and nice snacks.
+    <h3>Stumptown</h3>
+    <p>
+      18 W 29th St<br>
+      New York, NY 10001
+    </p>
+    <p>Does this even need explaining?</p>
+
+
+    <hr>
+    <h2>Brooklyn</h2>
+    <h3>Toby's Estate</h3>
+    <p>
+      125 N 6th St<br>
+      Brooklyn, NY 11249</br>
+    </p>
+    <p>Toby's has grown a lot from its initial location in Brooklyn. They now have three locations in NYC.</p>
+  </article>
